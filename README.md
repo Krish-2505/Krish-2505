@@ -43,14 +43,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/Krish-2505">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-2505&show_icons=true&locale=en&layout=compact" alt="krish-2505" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-2505&show_icons=true&locale=en" alt="krish-2505" />
-</a>
-</p>
 
 ### 🤝🏻 Connect with Me  
 
