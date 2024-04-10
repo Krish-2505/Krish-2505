@@ -47,8 +47,8 @@
 
 <p align="center">
 <a href="https://github.com/Krish-2505">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=welf06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=welf06&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krish-2505&show_icons=true&locale=en&layout=compact" alt="krish-2505" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krish-2505&show_icons=true&locale=en" alt="krish-2505" />
 </a>
 </p>
 
@@ -59,5 +59,5 @@
 <a href="https://www.leetcode.com/krish25052004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krish25052004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/krishnababu25/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krishnababu25/profile" height="30" width="40" /></a>
 
-<!-- <a href="mailto:ganeshnathan06@gmail.com">Mail</a> -->
+
 </p>
